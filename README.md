@@ -1,10 +1,3 @@
-# Vald8-sdk
-The python SDK for Valid8
-
-Here’s a clean, professional, developer-friendly README for your public vald8-sdk repo (Apache 2.0 licensed, with focus on CI/LLM testing, open-source credibility, and SaaS upsell path).
-
-⸻
-
 📦 Vald8 SDK
 
 Vald8 is a lightweight Python SDK for automated LLM evaluation in CI/CD pipelines.
