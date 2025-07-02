@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vald8"
+version = "0.1.0"
+description = "SDK for automated LLM evaluation and CI integration"
+authors = [
+  { name="Alex Thorpe", email="contact@vald8.com" }
+]
+readme = "README.md"
+license = {file = "LICENSE"}
+requires-python = ">=3.7"
+dependencies = []
+
+[project.scripts]
+vald8 = "vald8.cli:run_local"
